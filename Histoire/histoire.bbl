@@ -745,6 +745,30 @@ Tranchère, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Vermersch%
+}{%
+Vermersch%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+ver94}
+\APACinsertmetastar {%
+ver94}%
+\begin{APACrefauthors}%
+Vermersch, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1994}.
+\newblock
+\APACrefbtitle {{L'entretien d'explicitation en formation initiale et en
+  formation continue}} {{L'entretien d'explicitation en formation initiale et
+  en formation continue}}.
+\newblock
+\APACaddressPublisher{Paris}{ESF}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Verneuil%
 }{%
 Verneuil%

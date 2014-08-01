@@ -1,424 +1,370 @@
+@comment{x-kbibtex-encoding=utf-8}
+
+@comment{x-kbibtex-personnameformatting=<%l><, %f><, %s>}
+
 % This file was created with JabRef 2.10b2.
 % Encoding: UTF-8
 
-
-@Book{bou03,
-  Title                    = {La grande aventure des écoles normales d'instituteurs},
-  Author                   = {Bouyer, C},
-  Publisher                = {Le cherche midi},
-  Year                     = {2003},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{bou03,
+	address = "Paris",
+	author = "Bouyer, C",
+	owner = "Sylvain",
+	publisher = "Le cherche midi",
+	timestamp = "2014.07.30",
+	title = "{La grande aventure des écoles normales d'instituteurs}",
+	year = "2003"
 }
 
-@InBook{bui11,
-  Title                    = {Nouveau dictionnaire de pédagogie et d'instruction primaire},
-  Author                   = {Ferdinand Buisson},
-  Chapter                  = {Conférences pédagogiques},
-  Editor                   = {Ferdinand Buisson},
-  Publisher                = {INRP (édition électronique)},
-  Year                     = {1911},
-
-  Address                  = {Lyon},
-  Edition                  = {2},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@inbook{bui11,
+	address = "Lyon",
+	author = "Buisson, Ferdinand",
+	chapter = "Conférences pédagogiques",
+	edition = "2",
+	editor = "Buisson, Ferdinand",
+	owner = "Sylvain",
+	publisher = "INRP (édition électronique)",
+	timestamp = "2014.07.30",
+	title = "{Nouveau dictionnaire de pédagogie et d'instruction primaire}",
+	year = "1911"
 }
 
-@Book{cam94,
-  Title                    = {Le rôle de l'université dans la formation des enseignants},
-  Author                   = {Cambier, A},
-  Publisher                = {UNESCO},
-  Year                     = {1994},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{cam94,
+	address = "Paris",
+	author = "Cambier, A",
+	owner = "Sylvain",
+	publisher = "UNESCO",
+	timestamp = "2014.07.30",
+	title = "{Le rôle de l'université dans la formation des enseignants}",
+	year = "1994"
 }
 
-@InBook{ch97,
-  Title                    = {La vidéoformation. Autres regards, autres pratiques},
-  Author                   = {Chailley},
-  Chapter                  = {De l'école normale à l'IUFM, aléas et persistance de la vidéoformation},
-  Editor                   = {Mottet, G},
-  Publisher                = {l'Harmattan},
-  Year                     = {1997},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@inbook{ch97,
+	author = "Chailley",
+	chapter = "De l'école normale à l'IUFM, aléas et persistance de la vidéoformation",
+	editor = "Mottet, G",
+	owner = "Sylvain",
+	publisher = "l'Harmattan",
+	timestamp = "2014.07.30",
+	title = "{La vidéoformation. Autres regards, autres pratiques}",
+	year = "1997"
 }
 
-@Book{cha87,
-  Title                    = {Rédaction pédagogique : sujets traités et à traiter},
-  Author                   = {Chasteau, L},
-  Publisher                = {Libraire Ricard-Bernheim et Cie},
-  Year                     = {1887},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{cha87,
+	address = "Paris",
+	author = "Chasteau, L",
+	owner = "Sylvain",
+	publisher = "Libraire Ricard-Bernheim et Cie",
+	timestamp = "2014.07.30",
+	title = "{Rédaction pédagogique : sujets traités et à traiter}",
+	year = "1887"
 }
 
-@Article{chesnais75,
-  Title                    = {La population des bacheliers en France. Estimation et projection jusqu'en 1995},
-  Author                   = {Jean-Claude Chesnais},
-  Journal                  = {Population},
-  Year                     = {1975},
-  Pages                    = {527-550},
-  Volume                   = {30/3},
-
-  Address                  = {Paris},
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@article{chesnais75,
+	address = "Paris",
+	author = "Chesnais, Jean-Claude",
+	journal = "Population",
+	owner = "Sylvain",
+	pages = "527–550",
+	timestamp = "2014.07.30",
+	title = "{La population des bacheliers en France. Estimation et projection jusqu'en 1995}",
+	volume = "30/3",
+	year = "1975"
 }
 
-@Book{com01,
-  Title                    = {Histoire des instituteurs et des professeurs de 1880 à nos jours},
-  Author                   = {Compagnon, B and Thévenin, A},
-  Publisher                = {Broché},
-  Year                     = {2001},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{com01,
+	address = "Paris",
+	author = "Compagnon, B and Thévenin, A",
+	owner = "Sylvain",
+	publisher = "Broché",
+	timestamp = "2014.07.30",
+	title = "{Histoire des instituteurs et des professeurs de 1880 à nos jours}",
+	year = "2001"
 }
 
-@Book{con07,
-  Title                    = {Histoire de la formation des enseignants en France aux XIXe et XXe siècles},
-  Author                   = {Condette, J-F},
-  Publisher                = {l'Harmattan},
-  Year                     = {2007},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{con07,
+	address = "Paris",
+	author = "Condette, J-F",
+	owner = "Sylvain",
+	publisher = "l'Harmattan",
+	timestamp = "2014.07.30",
+	title = "{Histoire de la formation des enseignants en France aux XIXe et XXe siècles}",
+	year = "2007"
 }
 
-@Book{dan08,
-  Title                    = {Réforme des IUFM. Vers une nouvelle professionnalité enseignante ?},
-  Author                   = {Danvers, C},
-  Publisher                = {l'Harmattan},
-  Year                     = {2008},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{dan08,
+	address = "Paris",
+	author = "Danvers, C",
+	owner = "Sylvain",
+	publisher = "l'Harmattan",
+	timestamp = "2014.07.30",
+	title = "{Réforme des IUFM. Vers une nouvelle professionnalité enseignante ?}",
+	year = "2008"
 }
 
-@Book{deledalle65,
-  Title                    = {La pédagogie de John Dewey},
-  Author                   = {Gérard Deledalle},
-  Publisher                = {éd. du Scarabée},
-  Year                     = {1965},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.05.19}
+@book{deledalle65,
+	address = "Paris",
+	author = "Deledalle, Gérard",
+	owner = "Sylvain",
+	publisher = "éd. du Scarabée",
+	timestamp = "2014.05.19",
+	title = "{La pédagogie de John Dewey}",
+	year = "1965"
 }
 
-@Unpublished{dob1899,
-  Title                    = {Cours de pédagogie de l'école normale. 1898-1899.},
-  Author                   = {Dobigny, G},
-  Note                     = {Fond du musée de l'éducation du Val d'oise},
-  Year                     = {1899},
-
-  Address                  = {beauvais},
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@unpublished{dob1899,
+	address = "beauvais",
+	author = "Dobigny, G",
+	note = "Fond du musée de l'éducation du Val d'oise",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{Cours de pédagogie de l'école normale. 1898-1899.}",
+	year = "1899"
 }
 
-@InBook{durkheim11,
-  Title                    = {Nouveau dictionnaire de pédagogie et d'instruction primaire},
-  Author                   = {Durkheim, Emile},
-  Chapter                  = {Pédagogie},
-  Editor                   = {Ferdinand Buisson},
-  Publisher                = {INRP (édition électronique)},
-  Year                     = {1911},
-
-  Address                  = {Lyon},
-  Edition                  = {2},
-
-  Booktitle                = {Dictionnaire de pédagogie},
-  Owner                    = {sylvain},
-  Timestamp                = {2014.05.18}
+@inbook{durkheim11,
+	address = "Lyon",
+	author = "Durkheim, Emile",
+	booktitle = "{Dictionnaire de pédagogie}",
+	chapter = "Pédagogie",
+	edition = "2",
+	editor = "Buisson, Ferdinand",
+	owner = "sylvain",
+	publisher = "INRP (édition électronique)",
+	timestamp = "2014.05.18",
+	title = "{Nouveau dictionnaire de pédagogie et d'instruction primaire}",
+	year = "1911"
 }
 
-@InBook{fabre02,
-  Title                    = {Existe-t-il des savoirs pédagogiques ?},
-  Author                   = {Michel Fabre},
-  Chapter                  = {5},
-  Editor                   = {Jean Houssaye and Michel Soëtard and Daniel Hameline and Michel Fabre},
-  Pages                    = {99-127},
-  Publisher                = {ESF éd.},
-  Year                     = {2002},
-
-  Address                  = {Issy-les-Moulineaux},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.05.19}
+@inbook{fabre02,
+	address = "Issy-les-Moulineaux",
+	author = "Fabre, Michel",
+	chapter = "5",
+	editor = "Houssaye, Jean and Soëtard, Michel and Hameline, Daniel and Fabre, Michel",
+	owner = "Sylvain",
+	pages = "99–127",
+	publisher = "ESF éd.",
+	timestamp = "2014.05.19",
+	title = "{Existe-t-il des savoirs pédagogiques ?}",
+	year = "2002"
 }
 
-@Book{gon76,
-  Title                    = {La question des écoles normales primaires de la Révolution à 1962},
-  Author                   = {Gontard, M},
-  Publisher                = {CRDP},
-  Year                     = {1976},
-
-  Address                  = {Toulouse},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{gon76,
+	address = "Toulouse",
+	author = "Gontard, M",
+	owner = "Sylvain",
+	publisher = "CRDP",
+	timestamp = "2014.07.30",
+	title = "{La question des écoles normales primaires de la Révolution à 1962}",
+	year = "1976"
 }
 
-@Book{gon54,
-  Title                    = {La question des écoles normales primaires de la révolution de 1789 à nos jours},
-  Author                   = {Gontard, M},
-  Publisher                = {CRDP},
-  Year                     = {1954},
-
-  Address                  = {Toulouse},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{gon54,
+	address = "Toulouse",
+	author = "Gontard, M",
+	owner = "Sylvain",
+	publisher = "CRDP",
+	timestamp = "2014.07.30",
+	title = "{La question des écoles normales primaires de la révolution de 1789 à nos jours}",
+	year = "1954"
 }
 
-@InBook{gr10,
-  Title                    = {Une histoire de l'éducation et de l'enseignement en France au XVIIIe siècle},
-  Author                   = {Marcel Grandière},
-  Chapter                  = {Les écoles normales et la formation des maîtres},
-  Editor                   = {Jacquet-Françillon, F and D'Enfert, R and Loeffel, L},
-  Pages                    = {139-148},
-  Publisher                = {Retz},
-  Year                     = {2010},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@inbook{gr10,
+	address = "Paris",
+	author = "Grandière, Marcel",
+	chapter = "Les écoles normales et la formation des maîtres",
+	editor = "Jacquet-Françillon, F and D'Enfert, R and Loeffel, L",
+	owner = "Sylvain",
+	pages = "139–148",
+	publisher = "Retz",
+	timestamp = "2014.07.30",
+	title = "{Une histoire de l'éducation et de l'enseignement en France au XVIIIe siècle}",
+	year = "2010"
 }
 
-@Book{gr06,
-  Title                    = {La formation des maîtres en France : 1792-1914},
-  Author                   = {Marcel Grandière},
-  Publisher                = {INRP},
-  Year                     = {2006},
-
-  Address                  = {Lyon},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{gr06,
+	address = "Lyon",
+	author = "Grandière, Marcel",
+	owner = "Sylvain",
+	publisher = "INRP",
+	timestamp = "2014.07.30",
+	title = "{La formation des maîtres en France : 1792-1914}",
+	year = "2006"
 }
 
-@Unpublished{her69,
-  Title                    = {Rapport de stage de deuxième année de l'école normale d'instituteurs de St Germain en Laye 1969-1970},
-  Author                   = {Hervoy, A},
-  Note                     = {Fond du musée de l'éducation du Val d'oise},
-  Year                     = {1969},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@unpublished{her69,
+	author = "Hervoy, A",
+	note = "Fond du musée de l'éducation du Val d'oise",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{Rapport de stage de deuxième année de l'école normale d'instituteurs de St Germain en Laye 1969-1970}",
+	year = "1969"
 }
 
-@Book{houssaye00,
-  Title                    = {Le triangle pédagogique. Théorie et pratiques de l'éducation scolaire},
-  Author                   = {Jean Houssaye},
-  Publisher                = {Peter Lang (3ème éd.)},
-  Year                     = {2000},
-
-  Address                  = {Bern},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{houssaye00,
+	address = "Bern",
+	author = "Houssaye, Jean",
+	owner = "Sylvain",
+	publisher = "Peter Lang (3ème éd.)",
+	timestamp = "2014.07.30",
+	title = "{Le triangle pédagogique. Théorie et pratiques de l'éducation scolaire}",
+	year = "2000"
 }
 
-@Book{cap18,
-  Title                    = {Cent épreuves écrites des examens du certificat d'aptitudes pédagogique. Avec plans et développements (2ème éd.)},
-  Author                   = {Jeannot, C},
-  Publisher                = {Hachette},
-  Year                     = {1918},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{cap18,
+	address = "Paris",
+	author = "Jeannot, C",
+	owner = "Sylvain",
+	publisher = "Hachette",
+	timestamp = "2014.07.30",
+	title = "{Cent épreuves écrites des examens du certificat d'aptitudes pédagogique. Avec plans et développements (2ème éd.)}",
+	year = "1918"
 }
 
-@Unpublished{lam10,
-  Title                    = {Mémoire de 3ème année de l'école normale},
-  Author                   = {Lambert, E},
-  Note                     = {Fond du musée de l'éducation du Val d'oise},
-  Year                     = {1910},
-
-  Address                  = {Beauvais},
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@unpublished{lam10,
+	address = "Beauvais",
+	author = "Lambert, E",
+	note = "Fond du musée de l'éducation du Val d'oise",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{Mémoire de 3ème année de l'école normale}",
+	year = "1910"
 }
 
-@Article{lang11,
-  Title                    = {L’élitisme républicain : du certificat d’études primaires d’hier aux baccalauréats d’aujourd’hui},
-  Author                   = {Gabriel Langouët},
-  Journal                  = {Carrefours de l'éducation},
-  Year                     = {2011/4},
-  Pages                    = {92},
-  Volume                   = {Hors série Vol.2},
-
-  Address                  = {Paris},
-  Owner                    = {Sylvain},
-  Publisher                = {Labat},
-  Timestamp                = {2014.07.30}
+@article{lang11,
+	address = "Paris",
+	author = "Langouët, Gabriel",
+	journal = "Carrefours de l'éducation",
+	owner = "Sylvain",
+	pages = "92",
+	publisher = "Labat",
+	timestamp = "2014.07.30",
+	title = "{L’élitisme républicain : du certificat d’études primaires d’hier aux baccalauréats d’aujourd’hui}",
+	volume = "Hors série Vol.2",
+	year = "2011/4"
 }
 
-@Article{mel95,
-  Title                    = {Professionnalisation anodine ou clé de voûte du métier enseignant.},
-  Author                   = {Melyani, M},
-  Journal                  = {Revue des sciences de l'éducation},
-  Year                     = {1995},
-  Volume                   = {XII/3},
-
-  Address                  = {Paris},
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@article{mel95,
+	address = "Paris",
+	author = "Melyani, M",
+	journal = "Revue des sciences de l'éducation",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{Professionnalisation anodine ou clé de voûte du métier enseignant.}",
+	volume = "XII/3",
+	year = "1995"
 }
 
-@Unpublished{mon08,
-  Title                    = {La cabane. Mémoire de PE1 de l'IUFM de St Germain en Laye},
-  Author                   = {Mondreux, I},
-  Note                     = {Fond du musée de l'éducation du Val d'oise},
-  Year                     = {2008},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@unpublished{mon08,
+	author = "Mondreux, I",
+	note = "Fond du musée de l'éducation du Val d'oise",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{La cabane. Mémoire de PE1 de l'IUFM de St Germain en Laye}",
+	year = "2008"
 }
 
-@InBook{paw03,
-  Title                    = {Itinéraires d'instituteurs : Enquête auprès d'enseignants de l'académie de Versailles issus des écoles normales},
-  Author                   = {Pawlotsky, I},
-  Chapter                  = {Analyse issue de l'étude des entretiens},
-  Editor                   = {Wagnon, S and Pawlotsky, I and Leblanc, Y and Barbé, A},
-  Publisher                = {INRP},
-  Year                     = {2003},
-
-  Address                  = {Lyon},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@inbook{paw03,
+	address = "Lyon",
+	author = "Pawlotsky, I",
+	chapter = "Analyse issue de l'étude des entretiens",
+	editor = "Wagnon, S and Pawlotsky, I and Leblanc, Y and Barbé, A",
+	owner = "Sylvain",
+	publisher = "INRP",
+	timestamp = "2014.07.30",
+	title = "{Itinéraires d'instituteurs : Enquête auprès d'enseignants de l'académie de Versailles issus des écoles normales}",
+	year = "2003"
 }
 
-@Book{sch93,
-  Title                    = {Le praticien réflexif. À la recherche du savoir caché dans l'agir professionnel},
-  Author                   = {Donald Shon},
-  Publisher                = {Éditions Logiques},
-  Year                     = {1993},
-
-  Owner                    = {sylvain},
-  Timestamp                = {2014.08.01}
+@book{sch93,
+	author = "Shön, Donald",
+	owner = "sylvain",
+	publisher = "Éditions Logiques",
+	timestamp = "2014.08.01",
+	title = "{Le praticien réflexif. À la recherche du savoir caché dans l'agir professionnel}",
+	year = "1993"
 }
 
-@Unpublished{tes97,
-  Title                    = {L'apprentissage de la lecture : parcours à travers différentes méthodes. Mémoire de PE1 de l'IUFM d'Antony},
-  Author                   = {Testeride, I},
-  Note                     = {Fond de la bibliothèque de l'éducation de l'ESPE de Gennevilliers},
-  Year                     = {1997},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@unpublished{tes97,
+	author = "Testeride, I",
+	note = "Fond de la bibliothèque de l'éducation de l'ESPE de Gennevilliers",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{L'apprentissage de la lecture : parcours à travers différentes méthodes. Mémoire de PE1 de l'IUFM d'Antony}",
+	year = "1997"
 }
 
-@Book{tra60,
-  Title                    = {Le CAP},
-  Author                   = {Tranchère, S},
-  Publisher                = {Bourrelier éd.},
-  Year                     = {1960},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{tra60,
+	address = "Paris",
+	author = "Tranchère, S",
+	owner = "Sylvain",
+	publisher = "Bourrelier éd.",
+	timestamp = "2014.07.30",
+	title = "{Le CAP}",
+	year = "1960"
 }
 
-@Article{ver04,
-  Title                    = {Les professeurs de l’enseignement secondaire au début du xxe siècle : entre corporatisme et esprit de catégorie},
-  Author                   = {Yves Verneuil},
-  Journal                  = {Carrefours de l'éducation},
-  Year                     = {2001},
-  Pages                    = {102-117},
-
-  Address                  = {Paris},
-  Owner                    = {sylvain},
-  Timestamp                = {2014.08.01}
+@article{ver04,
+	address = "Paris",
+	author = "Verneuil, Yves",
+	journal = "Carrefours de l'éducation",
+	owner = "sylvain",
+	pages = "102–117",
+	timestamp = "2014.08.01",
+	title = "{Les professeurs de l’enseignement secondaire au début du xxe siècle : entre corporatisme et esprit de catégorie}",
+	year = "2001"
 }
 
-@Book{vin01,
-  Title                    = {Des hussards noirs de la république aux professeurs des écoles. L'école normale},
-  Author                   = {Vincent, A},
-  Publisher                = {Sutton éd.},
-  Year                     = {2001},
-
-  Address                  = {St Avertin},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{vin01,
+	address = "St Avertin",
+	author = "Vincent, A",
+	owner = "Sylvain",
+	publisher = "Sutton éd.",
+	timestamp = "2014.07.30",
+	title = "{Des hussards noirs de la république aux professeurs des écoles. L'école normale}",
+	year = "2001"
 }
 
-@Book{wag03,
-  Title                    = {Itinéraires d'instituteurs : Enquête auprès d'enseignants de l'académie de Versailles issus des écoles normales.},
-  Author                   = {Wagnon, S and Pawlotsky, I and Leblanc, Y and Barbé, A},
-  Publisher                = {INRP},
-  Year                     = {2003},
-
-  Address                  = {Lyon},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{wag03,
+	address = "Lyon",
+	author = "Wagnon, S and Pawlotsky, I and Leblanc, Y and Barbé, A",
+	owner = "Sylvain",
+	publisher = "INRP",
+	timestamp = "2014.07.30",
+	title = "{Itinéraires d'instituteurs : Enquête auprès d'enseignants de l'académie de Versailles issus des écoles normales.}",
+	year = "2003"
 }
 
-@Book{iufm08,
-  Title                    = {Professeur des écoles 2ème année : livret du stagiaire.},
-  Publisher                = {IUFM},
-  Year                     = {2008},
-
-  Address                  = {Versailles},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{iufm08,
+	address = "Versailles",
+	owner = "Sylvain",
+	publisher = "IUFM",
+	timestamp = "2014.07.30",
+	title = "{Professeur des écoles 2ème année : livret du stagiaire.}",
+	year = "2008"
 }
 
-@Book{cap72,
-  Title                    = {Recueil de sujets des deux épreuves écrites du CAP},
-  Publisher                = {Sudel},
-  Year                     = {1972},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{cap72,
+	address = "Paris",
+	owner = "Sylvain",
+	publisher = "Sudel",
+	timestamp = "2014.07.30",
+	title = "{Recueil de sujets des deux épreuves écrites du CAP}",
+	year = "1972"
 }
 
-@Book{cap27,
-  Title                    = {Programme des examens du CAP (certificat d'aptitudes au professorat) des écoles normales et des écoles normales supérieures},
-  Year                     = {1927},
-
-  Address                  = {Paris},
-
-  Owner                    = {Sylvain},
-  Timestamp                = {2014.07.30}
+@book{cap27,
+	address = "Paris",
+	owner = "Sylvain",
+	timestamp = "2014.07.30",
+	title = "{Programme des examens du CAP (certificat d'aptitudes au professorat) des écoles normales et des écoles normales supérieures}",
+	year = "1927"
 }
 
-@comment{jabref-meta: selector_publisher:}
+jabref-meta: selector_publisher:
 
-@comment{jabref-meta: selector_author:}
+jabref-meta: selector_author:
 
-@comment{jabref-meta: selector_journal:}
+jabref-meta: selector_journal:
 
-@comment{jabref-meta: selector_keywords:}
+jabref-meta: selector_keywords:
 

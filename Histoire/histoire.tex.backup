@@ -83,10 +83,33 @@ Du hussard noir de la république au professeur des écoles, la réalité du mé
 			L'ouvrage de Donald Schön paru en 1984 (1993 pour la traduction française) sur le concept de \emph{think in action} maladroitement traduit par \emph{savoir caché dans l'agir professionnel} marque une étape dans la théorisation du concept de reflexivité intimement lié à la profession enseignante \cite{sch93}. L'identité professionnelle de l'enseignant, en constante mutation, peut en effet se fonder sur la reflexivité comme marqueur de ce qu'est le métier enseignant, ni une théorie pure de l'éducation sans élèves, ni une pratique pure sans réflexion; une praxis ou comme l'appelait déjà Durkheim : une \emph{théorie pratique}\footnote{op. cit.}. Il nous semble que les revues éditées par les enseignants, les syndicats ou les instituts pédagogiques, aujourd'hui les blogs et les forums, les conférences pédagogiques, le rapprochement constant (et parfois contesté) d'avec l'université et les chercheurs, la recherche-action mais également la formation initiale et notamment le mémoire professionnel participent grandement de cette réflexivité des enseignants. Fondamentalement, le professeur est un praticien réflexif. 
 			
 \section{Faire la classe, penser la classe}
-lorem ipsum
-			\subsection{Les conférences pédagogiques}
+Faire la classe c'est le coeur de l'enseignement, quelque soit sa pédagogie et sa façon d'apréhender le métier, c'est de se retrouver devant ses élèves pour leur permettre d'entammer un processus d'apprentissage. Loin d'être évident, il s'agit d'utiliser ce que l'on sait (ou ce que l'on se représente) du métier, des élèves, des fonctions cognitives des enfants etc. d'une manière personnelle et réfléchie, en action. Cet acte éducatif met donc en action des savoirs, savoirs \emph{cachés} que la réflexion, la \emph{prise de conscience} ou \emph{explicitation} selon le terme de Vermersch \cite{ver94} permettent d'apprendre à connaître ses pratiques et ses compétences mais aussi, le cas échéant, de les modifier. Historiquement, la formation des enseignants utilise, volontairement ou non, plusieurs techniques qui participent de cette prise de recul sur soi, sur ses pratiques présentes ou futures.
+
 			\subsection{Faire la leçon}
+			La leçon préparée, effectuée devant la classe ou non, critiquée et commentée par les professeurs ou les collègues est certainement la première façon de penser sa pratique. Ainsi que le racconte un ancien élève de l'école normale :			
+			
+			\begin{quote}
+			 \emph{Y'avait également, euh, toutes les semaines, on avait également, dans certaines matières, des stages, pas des stages mais des leçons à effectuer pardonnez moi, j'ai dit le mot leçon, c'est plus à la mode, à effectuer dans les classes, donc c'était simplement bon, le jeudi après midi il fallait qu'on aille à, dans telle école pour assurer euh, une leçon d'EPS par exemple, bon où risquait d'avoir la visite d'un de nos professeurs.} \footnote{Entretien avec M. L. Professeur des écoles et formateur à l'IUFM à la retraite. Annexe \ref{annexe1}, page \pageref{annexe1}}. 
+			\end{quote}
+			 En 1905 déjà, l'arrêté du 4 août stipule que les élèves-maître doivent effectuer des conférences orales dans son article 13 :
+			 \begin{quote}
+			  \emph{Pendant la troisième année d'étude, les élèves font à tour de rôle, chaque semaine, une conférence. Elle consiste soit en une leçon faite à des enfants qui auraient été amenés à cet effet, soit dans la discussion d'une méthode ou de discipline, soit dans l'examen et la critique d'ouvrages scolaires, de devoirs écrits; soit enfin dans la lecture expliquée d'une page de pédagogie. Les directeurs des écoles annexes ou des écoles d'application et les professeurs interressés assistent à ces conférences. Elles donnent lieu de la part des élèves à des critiques appréciées par les professeurs et les directeurs."}
+			 \end{quote}
+			  Les conférences pédagogiques sont également, on le voit, des moments importants de la réflexion professionnelle.
+			\subsection{Les conférences pédagogiques}
+			Les conférences pédagogiques, instaurées dès 1837 jouent un rôle important dans la professionnalisation des instituteurs. En effet elles réunissent les élèves-maîtres et les professeurs des écoles d'applications et des autres écoles, les directeurs, les instituteurs adjoints voire les maîtres-répétiteurs etc. C'est l'occasion d'une réflexion sur des sujets de pédagogie, (figure \ref{fig. 4}, page \pageref{fig. 4}) réflexion qui se veut critique et concrète.
+			  \begin{figure}[!h]
+			    \centering
+			    \includegraphics[width=0.6\textwidth]{conf01.jpg}\\
+			    \caption{Retranscription d'une conférence pédagogique de l'école normale de St Germain en Laye de mai 1912. Fond du musée de l'éducation du Val d'Oise.}
+			    \label{fig. 4}
+			  \end{figure}
 			\subsection{Le passage à l'écrit}
+			L'arrêté du 18 janvier 1887 ne dit pas autre chose :
+			\begin{quote}
+			 \emph{II - l'étude critique des méthodes d'enseignement et des moyens de discipline et d'éducation n'est pas chose nouvelle. Les programmes antérieurs attribuaient au directeur de l'école normale la direction de ces travaux; mais ils prennent, dans la répartition actuelle, une importance inaccoutumée : ils coïncident avec les expériences que les élèves maîtres font aux écoles d'application, tandis qu'autrefois ces expériences précédaient de deux années d'études des méthodes et des procédés scolaires. La conférence pédagogique - trop souvent supprimée jadis - est restaurée, son objet est mieux défini, elle porte sur un ensemble de questions déterminées (leçons faites à des enfants, corrections de devoirs, critiques d'une méthode, d'un manuel de classe, etc.); enfin, obligatoire pour les directeurs des écoles d'application, elle réunit tout le personnel enseignant de l'école normale et devient un exercice d'une valeur capitale, pour où s'élabore et s'affirme l'unité pédagogique de l'école.}
+			\end{quote}
+
 
 
 \part{Ecart entre la volonté des prescripteurs et le travail réel des étudiants}
@@ -135,6 +158,10 @@ lorem ipsum
 
 \part*{Conclusion}
 Pour conclure,
+
+
+\part*{Annexes}
+\label{annexe1}
 
 \nocite{*}
 \bibliographystyle{apacite}
